@@ -1,2 +1,2 @@
-# ytda-connector-public
-YouTube Data api connector for Google Data Studio - public files.
+# YouTube Data api connector for Google Data Studio
+Public files to be referenced in the connector's manifest file.
